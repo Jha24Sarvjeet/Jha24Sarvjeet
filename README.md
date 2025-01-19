@@ -1,4 +1,4 @@
-![logo](https://github.com/JhaSarvjeet/JhaSarvjeet/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.jpg)
+![logo](https://github.com//Jha24Sarvjeet//Jha24Sarvjeet/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Sarvjeet Kumar</h1>
 <h3 align="center">Passionate about leveraging technology to solve real-world problems.</h3>
 
